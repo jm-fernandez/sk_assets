@@ -1,0 +1,67 @@
+# Written by MakeHuman 1.2.1 alpha
+version v1.2.1
+camera 11.5 0.0 0.4548900163388205 0.7382389785639529 -0.13806660344306437 0.7374999999999996
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier stomach/stomach-navel-down|up -1.000000
+modifier buttocks/buttocks-volume-decr|incr -0.758000
+modifier armslegs/r-lowerarm-scale-depth-decr|incr -0.034000
+modifier armslegs/r-lowerarm-scale-vert-decr|incr 0.020000
+modifier armslegs/r-lowerarm-fat-decr|incr 0.026000
+modifier armslegs/r-upperarm-scale-depth-decr|incr 0.216000
+modifier armslegs/r-upperarm-scale-vert-decr|incr 0.018000
+modifier armslegs/r-upperarm-fat-decr|incr -0.004000
+modifier armslegs/l-lowerarm-scale-depth-decr|incr -0.316000
+modifier armslegs/l-lowerarm-scale-vert-decr|incr -0.004000
+modifier armslegs/l-lowerarm-fat-decr|incr 0.012000
+modifier armslegs/l-upperarm-scale-depth-decr|incr -0.012000
+modifier armslegs/l-upperarm-scale-vert-decr|incr 0.216000
+modifier armslegs/l-upperarm-fat-decr|incr 0.004000
+modifier armslegs/l-upperarm-muscle-decr|incr -0.004000
+modifier breast/BreastSize 0.703000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-trans-down|up 1.000000
+modifier breast/breast-dist-decr|incr -0.362000
+modifier breast/breast-point-decr|incr 0.058000
+modifier breast/breast-volume-vert-down|up 1.000000
+modifier breast/nipple-size-decr|incr 0.004000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.209000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.285000
+modifier macrodetails-height/Height 0.768000
+modifier macrodetails-proportions/BodyProportions 0.563000
+modifier measure/measure-upperarm-circ-decr|incr 0.560000
+modifier measure/measure-wrist-circ-decr|incr 0.654000
+modifier measure/measure-bust-circ-decr|incr 0.056000
+modifier measure/measure-underbust-circ-decr|incr 0.710000
+modifier measure/measure-waist-circ-decr|incr 0.384000
+modifier measure/measure-waisttohip-dist-decr|incr 0.028000
+modifier measure/measure-shoulder-dist-decr|incr -0.524000
+modifier measure/measure-hips-circ-decr|incr -0.140000
+modifier measure/measure-upperleg-height-decr|incr -0.150000
+modifier measure/measure-thigh-circ-decr|incr 0.158000
+modifier measure/measure-lowerleg-height-decr|incr 0.196000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair hair_08 0a0a1670-f7cc-4439-87a7-4946c2a43f8d
+eyelashes eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f
+skeleton default.mhskel
+eyebrows eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose standing1.bvh
+clothes combatboots 41fe9ace-1ed8-4075-91c6-ef48bef653fe
+clothes female_casualsuit02 9896f4a4-a718-4bdd-8482-52e1855160f6
+clothesHideFaces True
+background other pink.jpg 1.3333333333333333 0.0 0.0 1.0
+background enabled True
+skinMaterial skins/young_caucasian_female/young_caucasian_female2.mhmat
+material hair_08 0a0a1670-f7cc-4439-87a7-4946c2a43f8d hair_08.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034 eyebrow008.mhmat
+material eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f eyelashes03.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
